@@ -14,6 +14,8 @@
 - Doc File with text
 
 ## How to run ?
+First download [ffmpeg](https://www.ffmpeg.org/download.html) and [setup the path](https://www.youtube.com/results?search_query=install+ffmpeg).
+
 Download Source Code Project, Install dependencies and run this command :
 `py .\v2d.py run media_path`
 
