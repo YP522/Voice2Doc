@@ -32,16 +32,16 @@ Open the list of commands
 `py .\v2d.py help`
 
 Get the version of v2d project
-`py .\v2d.py version:`
+`py .\v2d.py version`
 
 Learn more about v2d project
 `py .\v2d.py about`
     
 Learn about author(s)
-`py .\v2d.py credits:`
+`py .\v2d.py credits`
 
 Run v2d with 1 audio or video file
-`py .\v2d.py run img1_path img2_path`
+`py .\v2d.py run media_path`
 
 ## Disclaimer
 ### Code
